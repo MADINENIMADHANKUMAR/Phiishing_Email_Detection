@@ -1,0 +1,7 @@
+text,label
+"Verify your bank account immediately http://fakebank.com",phishing
+"You won a free iPhone click here",phishing
+"Meeting scheduled tomorrow at 10 AM",safe
+"Your Amazon order has been shipped",safe
+"Reset your password urgently",phishing
+"Project submission deadline extended",safe
