@@ -1,5 +1,4 @@
 # Phiishing_Email_Detection
-# Phishing Email Detection Model
 A Machine Learning based phishing email detection system built using Python and Scikit-learn.  
 This project classifies emails as **Phishing** or **Safe** using textual analysis, suspicious keyword detection, and URL-based features.
 ---
